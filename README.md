@@ -5,11 +5,6 @@ A web extension that redirects YouTube, Twitter, Instagram... requests to altern
 [![Matrix Badge](https://img.shields.io/matrix/libredirect:matrix.org?label=matrix%20chat)](https://matrix.to/#/#libredirect:matrix.org)
 [![Firefox users Badge](https://img.shields.io/amo/users/libredirect?label=Firefox%20users)](https://addons.mozilla.org/firefox/addon/libredirect/)
 
-[![Firefox Add-on](./img/badge-amo.png)](https://addons.mozilla.org/firefox/addon/libredirect/)&nbsp;
-<a href="./chromium.md">
-<img src ="./img/badge-chromium.png" height=60 >
-</a>
-
 <img src ="./img/1.png" width=350>&nbsp;
 <img src ="./img/2.png" width=350>&nbsp;
 <img src ="./img/3.png" width=350>&nbsp;
@@ -34,10 +29,6 @@ A web extension that redirects YouTube, Twitter, Instagram... requests to altern
 - Send Files => [Send](https://gitlab.com/timvisee/send)
 
 **Note**: The Extension will be using random instances by default. You can modify this and add custom instances too.
-
-## Translate
-
-[![Weblate](./img/weblate.svg)](https://hosted.weblate.org/projects/libredirect/extension)
 
 ## Development
 
@@ -96,4 +87,5 @@ npm run start
 4. select `src` folder
 
 Forked from [Libredirect](https://github.com/SimonBrazell/privacy-redirect)
+
 Forked from [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect)
