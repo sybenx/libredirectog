@@ -4,7 +4,6 @@ A web extension that redirects YouTube, Twitter, Instagram... requests to altern
 
 [![Matrix Badge](https://img.shields.io/matrix/libredirect:matrix.org?label=matrix%20chat)](https://matrix.to/#/#libredirect:matrix.org)
 [![Firefox users Badge](https://img.shields.io/amo/users/libredirect?label=Firefox%20users)](https://addons.mozilla.org/firefox/addon/libredirect/)
-[![LibrePay Badge](https://img.shields.io/liberapay/gives/libredirect?label=Liberapay)](https://liberapay.com/LibRedirect)
 
 [![Firefox Add-on](./img/badge-amo.png)](https://addons.mozilla.org/firefox/addon/libredirect/)&nbsp;
 <a href="./chromium.md">
@@ -35,26 +34,6 @@ A web extension that redirects YouTube, Twitter, Instagram... requests to altern
 - Send Files => [Send](https://gitlab.com/timvisee/send)
 
 **Note**: The Extension will be using random instances by default. You can modify this and add custom instances too.
-
-# Please read the [FAQ](https://libredirect.codeberg.page/faq.html) if you have any questions!
-
-## Donate
-
-[![Liberapay](./img/liberapay.svg)](https://liberapay.com/LibRedirect)&nbsp;
-[![Patreon](./img/patreon.svg)](https://patreon.com/LibRedirect)&nbsp;
-[![Buy me a coffee](./img/bmc.svg)](https://www.buymeacoffee.com/libredirect)&nbsp;
-<a href="https://opencollective.com/libredirect"><img src = ./img/Open-Collective.png width=17% height=17%></a>
-
-- BTC: `bc1qrhue0frps6p2vkg978u9ayethnwprtmfug827q`
-- BCH: `qqz5vfnrngk0tjy73q2688qzw4wnllnuzqfndflhl8`
-- ETH: `0x896E5796Da76E49A400A9186E1c459CD2C64b4E8`
-- XMR: `4AM5CVfaGsnEXQQjZSzJvaWufe7pT86ubcZPr83fCjb2Hn3iwcForTWFy2Z3ugXcufUwHaGcucfPMFgPXBFSYGFvNrmV5XR`
-
-## Mirror Repos
-
-[![Codeberg](https://raw.githubusercontent.com/ManeraKai/manerakai/main/icons/codeberg.svg)](https://codeberg.org/LibRedirect/libredirect)&nbsp;&nbsp;
-[![GitHub](https://raw.githubusercontent.com/ManeraKai/manerakai/main/icons/github.svg)](https://github.com/libredirect/libredirect/)&nbsp;&nbsp;
-
 
 ## Translate
 
@@ -116,5 +95,5 @@ npm run start
 3. select `load unpacked extension`
 4. select `src` folder
 
-[Privacy Policy](Privacy-Policy.md)\
+Forked from [Libredirect](https://github.com/SimonBrazell/privacy-redirect)
 Forked from [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect)
