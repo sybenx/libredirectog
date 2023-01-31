@@ -1,5 +1,7 @@
 <img src="./img/libredirect_full.svg" height="50"/>
 
+### Forked from Libredirect at version 2.3.4 before the removal of features: latency test, wikiless, instance toggle in pop-up, etc.
+
 A web extension that redirects YouTube, Twitter, Instagram... requests to alternative privacy friendly frontends and backends.
 
 [![Matrix Badge](https://img.shields.io/matrix/libredirect:matrix.org?label=matrix%20chat)](https://matrix.to/#/#libredirect:matrix.org)
