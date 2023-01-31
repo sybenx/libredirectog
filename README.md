@@ -1,4 +1,4 @@
-<img src="./img/libredirect_full.svg" height="50"/>
+# LibRedirect OG
 
 ### Forked from Libredirect at version 2.3.4 before the removal of features: latency test, wikiless, instance toggle in pop-up, etc.
 
